@@ -36,9 +36,6 @@ class Select:
     def usertoken_db(user_id):
         QUERY = "SELECT usertoken FROM `userlist` WHERE userid= '%s'" % (user_id)
         return(QUERY)
-    def useremail_db(user_id):
-        QUERY = "SELECT user_email FROM `userlist` WHERE userid= '%s'" % (user_id)
-        return(QUERY)
     def userstatusemail_db(user_id):
         QUERY = "SELECT email_status FROM `userlist` WHERE userid= '%s'" % (user_id)
         return(QUERY)
