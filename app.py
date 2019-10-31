@@ -80,7 +80,6 @@ from bs4 import BeautifulSoup
 
 # Server Based
 import datetime
-import subprocess
 import feedparser
 import binascii
 import pymysql

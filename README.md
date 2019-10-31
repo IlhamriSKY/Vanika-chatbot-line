@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/IlhamriSKY/vanika-chatbot-line/blob/master/LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/783df522579c4603b572abd3be599ca4)](https://www.codacy.com/manual/IlhamriSKY/vanika-chatbot-line?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IlhamriSKY/vanika-chatbot-line&amp;utm_campaign=Badge_Grade)
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m779426128-6b6e81ed8dc987db17d4cad2.svg)](https://stats.uptimerobot.com/1YoEKsMA9D)
 
 ## Vanika-chatbot-line
 Vanika merupakan salah satu inovasi terbaru dari Unika Soegijapranata yang dapat diakses melalui aplikasi pesan instan LINE. Asisten virtual ini dapat membantu para alumni, orangtua, dosen maupun mahasiswa yang ingin bertanya terkait informasi di Unika. Dengan teknologi ini, pengguna dapat mengakses informasi di Unika via chat dan dilayani selama 24 jam non-stop. Saat chat dengan Vanika ini, pengguna seolah-olah mendapatkan kawan baru untuk ngobrol. Kecerdasan buatan yang menjadi inti dari Vanika ini terus berkembang sejalan dengan waktu. https://www.unika.ac.id/blog/2018/07/13/virtual-assistant-vanika/
