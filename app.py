@@ -49,7 +49,6 @@ import re
 from datetime import timedelta
 from datetime import datetime
 from xml.etree import ElementTree
-from random import randint
 
 # UrlLib with version python
 if sys.version_info[0] > 2:
@@ -80,8 +79,6 @@ from bs4 import BeautifulSoup
 
 # Server Based
 import datetime
-import feedparser
-import binascii
 import pymysql
 import socket
 import smtplib
