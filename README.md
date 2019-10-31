@@ -17,13 +17,14 @@ Vanika merupakan salah satu inovasi terbaru dari Unika Soegijapranata yang dapat
     - [SINTAK UNIKA](http://sintak.unika.ac.id/)
     - [DIMAS](https://play.google.com/store/apps/details?id=presensi.qrcode.unika)
     - [DASBOARD VANIKA]()
-<img src="/demo1.PNG">
-<img src="/demo2.PNG">
+<img src="img/demo1.PNG">
+<img src="img/demo2.PNG">
 
 ## Kenapa platform LINE
 - Line sendiri mempunyai monthly active users sebanyak 220.000.000 user per juli 2016.
 - Memiliki Official Messaging API dan document yang lengkap [APIS DOCS](https://developers.line.biz/en/docs/messaging-api/line-bot-sdk/).
-<img src="/line1.PNG">
+<img src="img/line1.PNG">
+<img src="img/line2.PNG">
 
 ## Source code
 Vanika menggunakan [LINE PYTHON SDK](https://github.com/line/line-bot-sdk-python) yang berjalan pada python 3.8.*.
@@ -37,4 +38,8 @@ Beberapa modul yang di pakai [MODUL](https://github.com/IlhamriSKY/vanika-chatbo
   <a href="https://line.me/R/ti/p/%40wux4128q"><img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
 
 3. atau Scan QR Code dibawah
-  <img src="/qrcode.png">
+  <img src="img/qrcode.png">
+
+## Next To Do?
+- [ ] Absen Online dengan qrcode
+- [ ] Todo List / Jadwal Untuk Mahasiswa Unika
