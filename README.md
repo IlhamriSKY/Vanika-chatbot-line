@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/IlhamriSKY/vanika-chatbot-line/blob/master/LICENSE)
+[![python3.x](https://img.shields.io/badge/3.6%20%7C%203.7-blue.svg?&logo=python&label=Python)](https://www.python.org/downloads/release/python-372/)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/783df522579c4603b572abd3be599ca4)](https://www.codacy.com/manual/IlhamriSKY/vanika-chatbot-line?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IlhamriSKY/vanika-chatbot-line&amp;utm_campaign=Badge_Grade)
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m779426128-6b6e81ed8dc987db17d4cad2.svg)](https://stats.uptimerobot.com/1YoEKsMA9D)
 
