@@ -18,10 +18,7 @@ Vanika merupakan salah satu inovasi terbaru dari Unika Soegijapranata yang dapat
 - Menampilkan Informasi International Office [INTERNATIONAL OFFICE](http://io.unika.ac.id/).
 - Menampilkan Berita Unika [UNIKA NEWS](http://news.unika.ac.id/) <i>cronjob setiap hari</i>.
 - Menampilkan Ketersediaan Buku di perpustakaan Unika [PERPUSTAKAAN](http://lib.unika.ac.id/).
-- Vanika sendiri terintegrasi dengan 3 aplikasi.
-    - [SINTAK UNIKA](http://sintak.unika.ac.id/)
-    - [DIMAS](https://play.google.com/store/apps/details?id=presensi.qrcode.unika)
-    - [DASHBOARD VANIKA]()
+
 <img src="img/demo1.png">
 
 ## Kenapa platform LINE
@@ -30,9 +27,8 @@ Vanika merupakan salah satu inovasi terbaru dari Unika Soegijapranata yang dapat
 <img src="img/line1.png">
 
 ## Source code
-Vanika menggunakan [LINE PYTHON SDK](https://github.com/line/line-bot-sdk-python) yang berjalan pada python 3.8.*.
-
-Beberapa modul yang di pakai [MODUL](https://github.com/IlhamriSKY/vanika-chatbot-line/blob/master/requirements.txt).
+- Vanika menggunakan [LINE PYTHON SDK](https://github.com/line/line-bot-sdk-python)
+- Modul yang di pakai [MODUL](https://github.com/IlhamriSKY/vanika-chatbot-line/blob/master/requirements.txt).
 
 ## Add Bot
 1. Install LINE apps dari Google Play atau App Store.
